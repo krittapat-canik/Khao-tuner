@@ -35,7 +35,7 @@ class Config:
     # UI related
     ui_title: str = "Khao-LoRA Tuner"
     ui_emoji: str = "🌾🎛️"
-    ui_subtitle: str = "Toolkit for evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA)."
+    ui_subtitle: str = "Khao train inter UI kit"
     ui_show_sys_info: bool = True
     ui_dev_mode: bool = False
     ui_dev_mode_title_prefix: str = "[UI DEV MODE] "
