@@ -1,2 +1,0 @@
-# Khao-tuner
-Khao-tuner
